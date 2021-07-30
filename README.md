@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guilhxrmz
-- 👀 I’m interested in java programation
+- 👀 I’m interested in java programation and JavaScript
 - 🌱 I’m learning about this language here on this repository
-- 💞️ I’m looking to collaborate on java bothcamp now but this repository is only for college activies
+- 💞️ I’m looking to collaborate on java and JavaScript bothcamp now 
 - 📫 How to reach me: send an e-mail for guilhermelourenco132@gmail.com or dm me on whatever social midia (@guilhxrmz)
 
 <!---
